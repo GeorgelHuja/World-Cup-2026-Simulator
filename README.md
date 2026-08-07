@@ -27,7 +27,7 @@ By default, the simulator runs 10,000 complete tournaments and calculates the mo
 
 And the most likely teams to win the World Cup in these simulations
 
-## Key Features
+## Key Features:
 
 -Full 48-team group-stage simulation
 -Official-style 12-group tournament structure
@@ -96,6 +96,7 @@ Number of simulated tournament wins / Total simulations
 ## Limitations
 
 This model is a simplified representation of football matches. It does not currently account for every factor that may influence real tournament outcomes, including:
+
 -Player injuries and suspensions
 -Squad selection changes
 -Managerial changes
@@ -111,6 +112,7 @@ Elo ratings and model assumptions also influence the resulting probabilities. Th
 ## Skills demonstrated 
 
 This project demonstrates experience in:
+
 -Python programming
 -Probability and statistics
 -Monte Carlo simulation
