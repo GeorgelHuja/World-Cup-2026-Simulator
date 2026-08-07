@@ -17,5 +17,5 @@ pip install -r requirements.txt
 
 ## Usage
 
-Open `world_cup_simulator.ipynb` in Jupyter Notebook or JupyterLab
+Open `WorldCupSIMV5.ipynb` in Jupyter Notebook or JupyterLab
 and run.
