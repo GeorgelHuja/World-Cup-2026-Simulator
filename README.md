@@ -1,6 +1,6 @@
 # World-Cup-2026-Simulator
 
-A Python-based simulation engine that models the complete 2026 FIFA World Cup format and estimates the probability of most likely knockout match=ups through the tournament.
+A Python-based simulation engine that models the complete 2026 FIFA World Cup format and estimates the probability of most likely knockout match-ups through the tournament.
 
 The model combines Elo ratings, Poisson goal modelling, dynamic rating updates, and Monte Carlo simulation to generate thousands of possible tournament outcomes.
 
