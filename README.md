@@ -29,20 +29,20 @@ And the most likely teams to win the World Cup in these simulations
 
 ## Key Features:
 
--Full 48-team group-stage simulation
--Official-style 12-group tournament structure
--Qualification of the eight best third-placed teams
--Complete knockout bracket through to the final
--Elo-based team strength ratings
--Host-country rating adjustments
--Poisson-distributed goal simulation
--Penalty-shootout modelling
--Dynamic Elo updates after each match
--Margin of victory adjustment
--Configurable number of Monte Carlo simulations
--Stage-by-stage probability outputs
--Optional display of a single simulated tournament
--API-based third-place mapping retrieval with support for local caching
+- Full 48-team group-stage simulation
+- Official-style 12-group tournament structure
+- Qualification of the eight best third-placed teams
+- Complete knockout bracket through to the final
+- Elo-based team strength ratings
+- Host-country rating adjustments
+- Poisson-distributed goal simulation
+- Penalty-shootout modelling
+- Dynamic Elo updates after each match
+- Margin of victory adjustment
+- Configurable number of Monte Carlo simulations
+- Stage-by-stage probability outputs
+- Optional display of a single simulated tournament
+- API-based third-place mapping retrieval with support for local caching
 
 ## Modelling Approach
 1. Elo Ratings
@@ -97,15 +97,15 @@ Number of simulated tournament wins / Total simulations
 
 This model is a simplified representation of football matches. It does not currently account for every factor that may influence real tournament outcomes, including:
 
--Player injuries and suspensions
--Squad selection changes
--Managerial changes
--Tactical matchups
--Travel and recovery time
--Weather conditions
--In-match substitutions
--Recent player-level performance
--Correlation between scoring and game state
+- Player injuries and suspensions
+- Squad selection changes
+- Managerial changes
+- Tactical matchups
+- Travel and recovery time
+- Weather conditions
+- In-match substitutions
+- Recent player-level performance
+- Correlation between scoring and game state
 
 Elo ratings and model assumptions also influence the resulting probabilities. The outputs should therefore be interpreted as model estimates rather than predictions with certainty.
 
@@ -113,16 +113,16 @@ Elo ratings and model assumptions also influence the resulting probabilities. Th
 
 This project demonstrates experience in:
 
--Python programming
--Probability and statistics
--Monte Carlo simulation
--Quantitative modelling
--Data processing with Pandas
--API integration
--Debugging and error handling
--Algorithm design
--Translating complex rules into code
--Communicating model assumptions and limitations
+- Python programming
+- Probability and statistics
+- Monte Carlo simulation
+- Quantitative modelling
+- Data processing with Pandas
+- API integration
+- Debugging and error handling
+- Algorithm design
+- Translating complex rules into code
+- Communicating model assumptions and limitations
 
 ## Disclaimer
 
